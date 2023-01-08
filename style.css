@@ -11,14 +11,27 @@ p{
     font-size: 14px!important;
 }
 .citation{
-    font-size: 15px;
+    font-size: 15px!important;
     font-style: italic;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .auteur{
-    font-size: 14PX;
+    font-size: 14px;
     font-weight: bold;
 }
-
+.color-white{
+    color: #FFFFFF !important;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+blockquote{
+    margin-top: 75px;
+}
+H4{
+    padding-bottom: 15Px !important;
+}
 a,
 button {
     transition: all .3s ease-in-out;
