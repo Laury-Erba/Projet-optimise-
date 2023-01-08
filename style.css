@@ -5,6 +5,18 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+
+}
+p{
+    font-size: 14px!important;
+}
+.citation{
+    font-size: 15px;
+    font-style: italic;
+}
+.auteur{
+    font-size: 14PX;
+    font-weight: bold;
 }
 
 a,
@@ -822,7 +834,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.webp");
 }
 
 @media (max-width: 1024px) {
