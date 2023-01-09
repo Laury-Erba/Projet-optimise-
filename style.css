@@ -42,7 +42,9 @@ h4 {
 h2{
     color: #333333 !important;
 }
-
+.black-color {
+    color: #000000 !important;
+}
 .contact-footer{
     margin-top: 25px;
 }
