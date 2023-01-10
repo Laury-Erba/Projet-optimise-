@@ -55,7 +55,7 @@ h2{
     color: #000000 !important; 
 }
 .horaire{
-    font-size: 16px !important;
+    font-size: 18px !important;
     color: #000000 !important;
 }
 a,
@@ -233,7 +233,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: black;
 }
 
 .d-bloc .panel button:hover,
@@ -556,6 +556,21 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    padding: 12px 48px 12px 48px;
+}
+.form-group{
+    margin-bottom: 15Px;
+    
+}
+label{
+    width: 100%;
+    display: flex;
+    margin-bottom: 15px;
+}
+.formulaire{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .scrollToTop {
@@ -699,7 +714,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757 !important;
+    color: black !important;
 }
 
 .container {
